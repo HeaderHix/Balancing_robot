@@ -2,13 +2,21 @@
 
 
 
-https://github.com/HeaderHix/Balancing_robot/assets/166344986/b7ab5563-efef-472b-ab8d-678cefa11878
+
+
+https://github.com/HeaderHix/Balancing_robot/assets/166344986/8234556b-a3af-421c-81b5-d70ef52404cf
+
+
 PID Calibration
 
 
 
 
-https://github.com/HeaderHix/Balancing_robot/assets/166344986/f8bf7dc6-e777-4053-8309-70aedacab5de
+
+
+https://github.com/HeaderHix/Balancing_robot/assets/166344986/b0aa7294-eaef-4721-a11b-b2fb8027e547
+
+
 평지 상태는 안정적
 
 
